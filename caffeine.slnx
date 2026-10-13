@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="caffeine.vcxproj" Id="20cc2f2d-1c4f-449f-9fd4-de3327ec6b63" />
+</Solution>
