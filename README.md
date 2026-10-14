@@ -7,5 +7,5 @@ Just a simple caffeine
 
 Simple put these files into the Visual Studio 
 
-**Note that i have messed up with the icons so they appear small**
+**Note that i have messed up the icons so they appear small**
 
